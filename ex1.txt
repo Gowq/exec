@@ -1,0 +1,3 @@
+There is a vector in ascending order.
+Inputs: int x
+You need to find in this vector two numbers that add up to x. The complexity must be n log n.
